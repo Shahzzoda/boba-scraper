@@ -1,2646 +1,2526 @@
 Scraping The Bronx Boba Spots
-
 page:  1
 	name:  Lazy Sundaes - Lower East Side location:  23 Clinton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  15 Flavors location:  1763 Crosby Ave
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  Lazy Sundaes Greenwich Village location:  11 Waverly Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Xing Fu Tang location:  40-52 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tiger Sugar location:  4010 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tidal Tea location:  1520 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tana Thai location:  1890 Eastchester Rd
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  Kung Fu Tea location:  4053 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yum Ice Cream&Bubble Tea location:  8 Anderson St
-	boroughs:  []
+	Boroughs:  []
 	name:  Tea and Milk location:  75 9th Ave Lower Level
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  2
 	name:  Juice Up location:  1584A Jerome Ave
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  Mei Mei Restaurant location:  2833 Grand Concourse
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  Möge Tee - Fort Lee location:  2029 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  BAMBU location:  124B Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Shiny Tea location:  2667 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Truedan location:  208 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Kudo Society Teaneck location:  336 Queen Anne Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Shangerila Restaurant location:  2893 Buhre Ave
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  Tiger Sugar location:  197 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  BIAO Sugar location:  1271 Broadway
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  3
 	name:  Trutea location:  7 E 14th St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  Prince Tea House location:  15 Station Square
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Korean BBQ Grill location:  496 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  Chun Yang Tea - Flushing New York location:  133-41 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  2810 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  I Milky 沐白 location:  992 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  1630 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Dragon Horn Tea location:  106 Greenwich St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Poke Station location:  4053 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Boba Fries location:  8121 Broadway
-	boroughs:  []
-
+	Boroughs:  []
 page:  4
 	name:  Master Grill location:  262 Cypress Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Lazy Sundaes location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Culture Tea Bar location:  3111 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  mellow tea location:  1268 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mr.Wish location:  38 Middle Neck Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Bobaloca Bubble Tea and Coffee House location:  6103 Bergenline Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  ÜMACHA location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  2151 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Alimama location:  89A Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Alley location:  38-02 Prince St
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  5
 	name:  Tea Magic location:  2878 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Surreal Creamery location:  538 2nd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bibble & Sip location:  253 W 51st St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  La Window location:  143 Troutman St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tea and Milk location:  32-02 34th Ave
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  925 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Coco Fresh Tea & Juice location:  124 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  35-16 Ditmars Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  MomenTea location:  64 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  The Alley location:  68 Cooper Sq
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  6
 	name:  Menchie’s Frozen Yogurt location:  3555 Johnson Ave
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  Taste Crème location:  13-11 Jackson Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  2508 Queens Plaza S
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Moge Tee - Bayside location:  4319 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  YanYan Tea location:  135-03A Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Coco Fresh Tea & Juice location:  450 Hackensack Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Sagoto BubbleTea World location:  652 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Chun Yang Tea Chinatown location:  26B Elizabeth St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Grace Street location:  17 W 32nd St
-	boroughs:  ['Manhattan']
-	name:  QBubble location:  114-02 15th Ave
-	boroughs:  ['Queens']
-
-page:  7
+	Boroughs:  ['Manhattan']
 	name:  Modern Tea Shop location:  300 W 49th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
+page:  7
 	name:  Cool Fresh Juice Bar location:  2661 A Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  La Mian Lounge location:  25-12 Broadway
-	boroughs:  ['Queens', 'Manhattan']
+	Boroughs:  ['Queens', 'Manhattan']
 	name:  M Tea location:  2301 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Prince Tea House location:  31-47 Steinway St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  2851 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  One Zo location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Momo Ashi location:  40-06 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Song Tea location:  38-21 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Anda Cafe location:  37-11 Main St
-	boroughs:  ['Queens']
-
-page:  8
+	Boroughs:  ['Queens']
 	name:  Hawa Smoothie & Bubble Tea location:  193 Church St
-	boroughs:  []
+	Boroughs:  []
+page:  8
 	name:  The Grange location:  158 Larchmont Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  YiFang Taiwan Fruit Tea location:  61 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  204 E 10th St
-	boroughs:  []
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  379 First Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  39-22 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Yi Fang Taiwan Fruit Tea location:  135-15 40th Rd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  KOI Thé location:  32 Union Square E
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  36-39 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Cocohodo location:  255 Closter Dock Rd
-	boroughs:  []
-
-page:  9
+	Boroughs:  []
 	name:  Teazzi Tea Shop location:  135-17 38th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
+page:  9
 	name:  Kung Fu Tea location:  136-20 38th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Campus Deli & Grill location:  1606 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mavi’s Pizza and Pasta location:  237 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  Q Tea Tapas location:  242 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  1324 2nd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  One Zo - New York location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Uncle Drink location:  32-55 Steinway St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Machi Machi location:  33 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  31-54 Steinway St
-	boroughs:  ['Queens']
-
-page:  10
+	Boroughs:  ['Queens']
 	name:  Möge Tee - Flushing location:  38-03 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
+page:  10
+	name:  QBubble location:  114-02 15th Ave
+	Boroughs:  ['Queens']
 	name:  Yaya Tea Garden location:  206 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Jupioca location:  1457 York Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  PaTea location:  227 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  302 West 39th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Meet Fresh location:  37 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mi Tea location:  101 MacDougal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee Greenwich Village location:  168 Bleecker St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Yi Fang Taiwan Fruit Tea location:  44-68 21st St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Sunshine Ice location:  4514 Park Ave
-	boroughs:  ['The Bronx']
-
+	Boroughs:  ['The Bronx']
 page:  11
 	name:  Teazzi Tea Shop location:  47 W 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  INFINITEA NY location:  2309 Astoria Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  KOI Thé location:  189 Bleecker St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawa Smoothies & Bubble Tea location:  422 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Dumpling + Noodle location:  26 Palmer Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Debutea location:  217 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Ikko Hibachi Sushi Asian Bistro location:  3938 E Tremont Ave
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  The Teapsy New York location:  33-17 30th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  M Tea location:  36-56 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  107-22 Continental Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  12
 	name:  Lupe’s Jugos location:  39-06 108th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Cha Cha Matcha location:  373 Broome St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lucky Rolls location:  2 E Palisade Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  ViVi Bubble Tea location:  607 9th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Macao Imperial Tea location:  173 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea Time BK location:  749 Grand St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Krua location:  1764 1AVE
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yo Health location:  41-53 53rd St
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens', 'Queens']
 	name:  Bobba Hubba location:  40-36 75th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Oolong Tea & Poke Bowl location:  133 Front St
-	boroughs:  []
-
+	Boroughs:  []
 page:  13
 	name:  Poke n’ Ramen 360 location:  30 Mall Dr W
-	boroughs:  []
+	Boroughs:  []
 	name:  ViVi Bubble Tea location:  790 Manhattan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Taiwan Bear House location:  11 Pell St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha - Little Neck location:  252-01 Northern Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  1219 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kudo Society Cafe location:  138 W Central Blvd
-	boroughs:  []
+	Boroughs:  []
 	name:  The Unique Tea location:  42-01 162nd St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  mochii location:  116 E 7th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawa Smoothies & Bubble Tea location:  295 Broadway
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Makana location:  1329 Saint Nicholas Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  14
 	name:  Boba Dumbo location:  52 Jay St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yaya Tea Garden location:  51 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bibble & Sip location:  174 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  284 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  J&J Cajun Grill location:  9040 160th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  MomenTea Kitchen location:  213 W 40th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  28 St Marks Pl
-	boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
 	name:  Boba Land location:  110 Broad Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Ho Ho Té location:  805 8th Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Cafe De Flore location:  2175 Lemoine Ave
-	boroughs:  []
-
+	Boroughs:  []
 page:  15
 	name:  Crisp location:  288 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Creep City Ninja Bubble Tea location:  265 Graham Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Spot Dessert Bar location:  13 St Marks Pl
-	boroughs:  ['Manhattan', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Staten Island']
 	name:  Möge Tee location:  42-32 Crescent St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Happy Lemon location:  133-35 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Juicy Cube location:  166 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Siips Bubble location:  7408 Grand Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Spot Dessert Bar location:  39-16 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mocktails & Dreams location:  30 Mall Dr W
-	boroughs:  []
+	Boroughs:  []
 	name:  YoSweets location:  756 W 181st St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  16
 	name:  Sashimi Ramen Express location:  341 E 78th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  harmony location:  451 E 116th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  115 E 23rd St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  646 9th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  42-21 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bubbleology location:  120 1/2 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Very Fresh Noodles location:  409 W 15th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  200 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Rainbow Bakery location:  36-61 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Macao Imperial Tea location:  15 W 32nd St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  17
 	name:  Gong Cha location:  12 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea Magic location:  239 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kingston Tropical Bakery location:  4000 White Plains Rd
-	boroughs:  ['The Bronx']
+	Boroughs:  ['The Bronx']
 	name:  ViVi Bubble Tea location:  226 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  75 W 38th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lotus1 location:  4119 31st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  U Tea location:  139 Fulton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Song’s Dumplings Cafe location:  102-06 Metropolitan Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Panda Bubble Tea location:  858 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gogo Tea location:  60-07 Roosevelt Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  18
 	name:  ViVi bubble tea location:  50 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  1600 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mitsuwa Marketplace location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Mr. Wish location:  80-62 Lefferts Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  82-02 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Vivi Bubble Tea location:  325 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  11 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  527 Washington St
-	boroughs:  []
+	Boroughs:  []
 	name:  Möge Tee - Fifth Ave location:  275 5th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  19
 	name:  Yifang Taiwan Fruit Tea location:  33 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bubble Tea World location:  8748 Parsons Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  CoCo Fresh Tea & Juice location:  501 Great Neck Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Go Greenly location:  1109 Central Park Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  31 Waverly Pl
-	boroughs:  []
+	Boroughs:  []
 	name:  TSAôCAA location:  38-04 Prince St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cha Cha Matcha location:  1158 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  256 Broad Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee Newport location:  564 Washington Blvd
-	boroughs:  []
+	Boroughs:  []
 	name:  Tiger Hill location:  136-49 Roosevelt Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  20
-	name:  Win Win Foods location:  34-35 56th St
-	boroughs:  ['Queens']
 	name:  Momochai location:  57-16 Woodside Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Jupioca location:  278 Wyckoff Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Ten Ren’s Tea Time location:  73 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yifang Taiwan Fruit Tea location:  1028 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mee Cafe location:  26 Rutgers St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  6 S Station Plz
-	boroughs:  []
+	Boroughs:  []
 	name:  MENO location:  218 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  12 John St
-	boroughs:  ['Manhattan', 'Old Toronto']
+	Boroughs:  ['Manhattan', 'Old Toronto']
 	name:  Kitsby location:  186 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
-
-page:  21
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Vivi Bubble Tea location:  49 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
+page:  21
 	name:  Cafe Pilipino location:  530 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Osaka sushi & steak house location:  133-51 37th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  135-29 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Waffle & Bubble location:  6306 Bergenline Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee location:  69 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mango Mango Dessert location:  23 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Waffle & Bubble location:  2300 Summit Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  41-42 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Vivi Bubble Tea location:  37 Broad Ave
-	boroughs:  []
-
-page:  22
+	Boroughs:  []
 	name:  Tomiz location:  18 E 41st St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
+page:  22
 	name:  Tornado Crepe location:  307 Knickerbocker Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  9 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  CoCo Fresh Tea & Juice location:  45-40 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  CoCo Fresh Tea & Juice location:  420 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Juicy Cube location:  674 Lexington Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Yaya Tea Garden location:  86-12 Whitney Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  V3nom Cafe & Lounge location:  246-09 Jericho Tpke
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Yong Kang Street location:  1000 8th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawa smoothie & Bubble tea location:  1151 2nd Ave
-	boroughs:  ['Manhattan']
-
-page:  23
+	Boroughs:  ['Manhattan']
 	name:  BÀO Tea House - Greenwich Village location:  140 West 4th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
+page:  23
 	name:  Prince Tea House location:  134 Bowery
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  536 Washington St
-	boroughs:  []
+	Boroughs:  []
 	name:  Quickly location:  475 S Washington Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  The Dough Club location:  119 Baxter St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mojoilla location:  2 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  488 7th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Makana BBQ & Poke location:  161 W 106th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Savory Thai location:  378 Metropolitan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  The Whale Tea location:  209 E 14th St
-	boroughs:  ['Manhattan']
-
-page:  24
+	Boroughs:  ['Manhattan']
 	name:  Teado Tea Shop location:  145D Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
+page:  24
 	name:  The Pretzel Twister location:  5458 Myrtle Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Fay Da Bakery location:  321 W 6th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Anda Cafe location:  31-00 47th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Cafe Leah location:  225 Broad Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  CoCo Fresh Tea & Juice location:  38 Lexington Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Yong Kang Street location:  888 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Juice Vitality location:  18 Beaver St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Sunmerry Bakery Cafe location:  182-04 Horace Harding Expy
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Hawa Smoothies and Bubble Tea location:  1293 1st Ave
-	boroughs:  ['Manhattan']
-Scraping Brooklyn Boba Spots
+	Boroughs:  ['Manhattan']
+	name:  Avenue Coffee House location:  45-01 Greenpoint Ave
+	Boroughs:  ['Queens']
 
+Scraping Brooklyn Boba Spots
 page:  1
 	name:  Lazy Sundaes - Lower East Side location:  23 Clinton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lazy Sundaes Greenwich Village location:  11 Waverly Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Initial Tea location:  467 Dekalb Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tiger Sugar location:  2132 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  OJBK Tea Shop location:  525 Myrtle Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tiger Sugar location:  5903 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Namas Tea location:  863 Sterling Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  1566 Flatbush Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  76 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mr. Wish location:  86 5th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  2
 	name:  Cloud 9 Crepes location:  434 Marcus Garvey Blvd
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mudflow Tea House location:  5602 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tiger Sugar location:  197 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  156 Lawrence St
-	boroughs:  []
+	Boroughs:  []
 	name:  Lazy Sundaes location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Boba Dumbo location:  52 Jay St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tea Time BK location:  749 Grand St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Moge Tee location:  2013 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Xing Fu Tang location:  40-52 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tea and Milk location:  75 9th Ave Lower Level
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  3
 	name:  ViVi Bubble Tea location:  790 Manhattan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  40 Hoyt St
-	boroughs:  []
+	Boroughs:  []
 	name:  Debutea location:  71 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Sip N’ Play location:  471 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  113 Court St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Squarrel Cafe location:  572 Atlantic Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  PokéBowl Station location:  237 Flatbush Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  BAMBU location:  124B Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Meet Fresh location:  5815 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tornado Crepe location:  307 Knickerbocker Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  4
 	name:  Gong Cha location:  1698 E 14th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Teadora location:  6609 Fort Hamilton Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kudo Society Teaneck location:  336 Queen Anne Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  TenIchi Mart location:  118 Smith St
-	boroughs:  []
+	Boroughs:  []
 	name:  BIAO Sugar location:  1271 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Trutea location:  7 E 14th St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  PokéBowl Station location:  2037 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tiger Sugar location:  4010 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Banh Mi Place location:  824B Washington Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Jupioca location:  19 Hillel Pl
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  5
 	name:  Chun Yang Tea - Flushing New York location:  133-41 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  One More Charm location:  236 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  La Window location:  143 Troutman St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Pig Pig Cafe location:  7115 3rd Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Banhmigos location:  636 Park Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Truedan location:  208 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Shiny Tea location:  2667 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Dragon Horn Tea location:  106 Greenwich St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Jupioca location:  278 Wyckoff Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Boba Fries location:  8121 Broadway
-	boroughs:  []
-
+	Boroughs:  []
 page:  6
 	name:  Banhmigos location:  178 Lincoln Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  I bubble tea & cafe location:  109 Walnut Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Kitsby location:  186 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Hawa Smoothies & Bubble Tea location:  295 Broadway
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hawa Smoothies & Bubble Tea location:  44 Willoughby St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Brew Memories location:  295 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Cheesecake Diva location:  7309 3rd Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Hanco’s location:  350 7th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yifang Taiwan Fruit Tea location:  67 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chun Yang Tea Chinatown location:  26B Elizabeth St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  7
 	name:  Gotcha Cafe location:  1712 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Prince Tea House location:  8510 21st Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  PaTea location:  227 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Boba Le Tea Cafe location:  1396 B Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  TBaar location:  1323 Ave U
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  80’s Tea location:  6815 Bay Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Lucky Penguin location:  675 Glen Cove Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  5002 5th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Kulu Desserts location:  806 62nd St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Taste Crème location:  13-11 Jackson Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  8
 	name:  M Tea location:  36-56 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Alimama location:  89A Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee location:  42-32 Crescent St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  107-22 Continental Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  YiFang Taiwan Fruit Tea location:  774 58th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Creep City Ninja Bubble Tea location:  265 Graham Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hanco’s location:  134 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Chock Full O’ Nuts Cafe location:  1701 Avenue M
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  1422 Ave U
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yaya Tea Garden location:  2320 86th St
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  9
 	name:  Buntopia location:  994 Broadway
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  340 Millburn Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Yaya Tea Garden location:  206 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Coco Fresh Tea & Juice location:  8612 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Teazzi Tea Shop location:  47 W 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee Greenwich Village location:  168 Bleecker St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Debutea location:  217 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lotus Vietnamese Sandwiches location:  229 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Buren location:  1223 Broadway
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Juju Cafe and Deli location:  143 Smith St
-	boroughs:  []
-
+	Boroughs:  []
 page:  10
 	name:  Prince Tea House location:  204 E 10th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bibble & Sip location:  253 W 51st St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  2508 Queens Plaza S
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bread & Joe location:  618 4th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  La Mian Lounge location:  25-12 Broadway
-	boroughs:  ['Queens', 'Manhattan']
+	Boroughs:  ['Queens', 'Manhattan']
 	name:  Song Tea location:  38-21 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Savory Thai location:  378 Metropolitan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gigi’s Bakery location:  8626 4th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  TSAôCAA location:  773 59th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  The Alley location:  68 Cooper Sq
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  11
 	name:  ViVi Bubble Tea location:  6731 Bay Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Bobaloca Bubble Tea and Coffee House location:  6103 Bergenline Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Yummy Boba Desserts location:  5814 7th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Newkirk Fruit location:  17 Newkirk Plz
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  I Milky 沐白 location:  992 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee - Bayside location:  4319 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  One Zo location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chau Down Cafe location:  80 Dekalb Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hawa Smoothie & Bubble Tea location:  193 Church St
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee Brooklyn location:  705 59th St
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  12
 	name:  Ochado USA location:  255 Franklin Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Prince Tea House location:  15 Station Square
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  5100 Kings Plz
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yaya Tea Garden location:  51 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  KOI Thé location:  189 Bleecker St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  M Tea location:  2301 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Moge Tee location:  379 First Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  YanYan Tea location:  135-03A Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Song’s Dumplings Cafe location:  102-06 Metropolitan Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  KOI Thé location:  32 Union Square E
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  13
 	name:  Thai Holic location:  372 Myrtle Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Macao Imperial Tea location:  15 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Blossom Ice Cream location:  196 Court St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Surreal Creamery location:  538 2nd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Drink Tea location:  4722 8th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Grace Street location:  17 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Me-Do Desserts location:  3 Bay 25th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Earnest Tea Cafe location:  6008 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mango Mango Dessert location:  2024 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  72 Bayard St
-	boroughs:  ['Brooklyn', 'Manhattan']
-
+	Boroughs:  ['Brooklyn', 'Manhattan']
 page:  14
 	name:  Taiwan Bear House location:  11 Pell St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Modern Tea Shop location:  300 W 49th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Something Sweet location:  1976 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  JJ Delicacies location:  21 W Front St
-	boroughs:  []
-	name:  ÜMACHA location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  INFINITEA NY location:  2309 Astoria Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
+	name:  ÜMACHA location:  595 River Rd
+	Boroughs:  []
 	name:  Teazzi Tea Shop location:  135-17 38th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Spot Dessert Bar location:  13 St Marks Pl
-	boroughs:  ['Manhattan', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Staten Island']
 	name:  Moge Tee location:  302 West 39th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea and Milk location:  32-02 34th Ave
-	boroughs:  ['Queens', 'Queens']
-
+	Boroughs:  ['Queens']
 page:  15
 	name:  Tidal Tea location:  1520 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mr. Wish location:  80-62 Lefferts Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Yifang Taiwan Fruit Tea location:  1028 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  High Tea House location:  2349 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yi Fang Taiwan Fruit Tea location:  44-68 21st St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Coco Fresh Tea & Juice location:  450 Hackensack Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  East Wind Snack Shop location:  471 16th St
-	boroughs:  []
+	Boroughs:  []
 	name:  Vanessa’s Dumpling House location:  310 Bedford Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Sagoto BubbleTea World location:  652 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Lil M Bubble Tea location:  597 Manor Rd
-	boroughs:  ['Staten Island']
-
+	Boroughs:  ['Staten Island']
 page:  16
 	name:  YiFang Taiwan Fruit Tea location:  61 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bibble & Sip location:  174 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The TeaCompany Café & Retail - Montclair location:  8 S Fullerton Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Lincredibowl location:  350 Kearny Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Sweetie House location:  5701 6th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee Newport location:  564 Washington Blvd
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  2174 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Summer location:  85-36 Grand Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  ViVi Bubble Tea location:  532B Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Machi Machi location:  33 W 32nd St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  17
 	name:  Mi Tea location:  101 MacDougal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  ChowTime location:  1418 Mermaid Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yifang Taiwan Fruit Tea location:  33 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Coco Fresh Tea & Juice location:  79 Division St
-	boroughs:  []
+	Boroughs:  []
 	name:  Arnor Crepes & Bubble Tea location:  1425 W 10th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Crisp location:  288 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  TBaar location:  82-02 45th Ave
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens', 'Queens']
 	name:  Tan-Cha location:  5503 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Ho Ho Té location:  805 8th Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  One Zo - New York location:  110 3rd Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  18
 	name:  The Alley location:  38-02 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Möge Tee - Fort Lee location:  2029 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee location:  69 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Simplylife Bakery & Cafe location:  7406 New Utrecht Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Pop Pot Noodle & Tea Spot location:  7508 Jamaica Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  HK Tea and Sushi location:  2033 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mocktails & Dreams location:  30 Mall Dr W
-	boroughs:  []
+	Boroughs:  []
 	name:  Gong Cha location:  75 W 38th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  FullTime NetCafe location:  7314 13th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  In Cha location:  6003 7th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  19
 	name:  Vivi Bubble Tea location:  5924 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Henry’s location:  433 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  E’s Cake Shop location:  1508 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  343 Bloomfield Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Yaya Tea Garden location:  284 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tbaar location:  8520 20th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Urban Leaf Cafe location:  182 D Kingsland St
-	boroughs:  []
+	Boroughs:  []
 	name:  Williamsburg Smorgasburg - Saturday location:  90 Kent Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Vivi Bubble Tea location:  337 New Dorp Ln
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Crispy Burger location:  196 Smith St
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  20
 	name:  Ten Ren’s Tea Time location:  73 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bubbleology location:  120 1/2 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  8625 5th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mi Tea location:  2046 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Culture Tea Bar location:  3111 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Stand Up location:  7215 18th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  434 Hillside Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  35-16 Ditmars Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Pata Cafe location:  5614 Van Horn St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Dalongyi Hot Pot location:  159 Canal St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  21
 	name:  T Baar location:  4823 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Bubble Hut location:  2026 N Jerusalem Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Gong Cha location:  200 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  73 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  5723 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Bobba Hubba location:  40-36 75th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tea Magic location:  239 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  49 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  U Tea location:  139 Fulton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Teapsy New York location:  33-17 30th Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  22
 	name:  ViVi bubble tea location:  50 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mr.Chicken & Mrs.Tea location:  150-29 Crossbay Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  mochii location:  116 E 7th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Poke Bowl location:  324 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Dekalb Market Hall location:  445 Albee Square W
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Banhmigos location:  92 Court St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  BQ Tea location:  
-	boroughs: []
 	name:  Bubble Tea location:  98 Walker St
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  375 Bloomfield Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Blank Slate Tea location:  121 Madison Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  23
 	name:  MomenTea location:  64 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Meet Fresh location:  37 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  527 Washington St
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  28 St Marks Pl
-	boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
 	name:  MENO location:  218 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Siips Bubble location:  7408 Grand Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  ViVi Bubble Tea location:  607 9th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  mellow tea location:  1268 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  134 Bowery
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  488 7th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  24
 	name:  Mars Tea location:  2037 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  ViVi Bubble Tea location:  226 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  925 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Poke n’ Ramen 360 location:  30 Mall Dr W
-	boroughs:  []
+	Boroughs:  []
 	name:  Home location:  349 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Macao Imperial Tea location:  173 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Whale Tea location:  209 E 14th St
-	boroughs:  ['Manhattan']
-	name:  QBubble location:  114-02 15th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Manhattan']
 	name:  J Mart location:  8121 New Utrecht Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Jupioca location:  1457 York Ave
-	boroughs:  ['Manhattan']
-Scraping Manhattan Boba Spots
+	Boroughs:  ['Manhattan']
+	name:  Cafe Nomis location:  493 Broadway
+	Boroughs:  []
 
+Scraping Manhattan Boba Spots
 page:  1
 	name:  Lazy Sundaes Greenwich Village location:  11 Waverly Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lazy Sundaes - Lower East Side location:  23 Clinton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Machi Machi location:  33 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  BIAO Sugar location:  1271 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tiger Sugar location:  197 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Trutea location:  7 E 14th St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  Modern Tea Shop location:  300 W 49th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  I Milky 沐白 location:  992 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lazy Sundaes location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  BAMBU location:  124B Hester St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  2
 	name:  Tea and Milk location:  75 9th Ave Lower Level
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Xing Fu Tang location:  40-52 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Shiny Tea location:  2667 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bibble & Sip location:  253 W 51st St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  75 W 38th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Teazzi Tea Shop location:  47 W 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Surreal Creamery location:  538 2nd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Alimama location:  89A Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Truedan location:  208 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Dragon Horn Tea location:  106 Greenwich St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  3
 	name:  Gong Cha location:  925 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Grace Street location:  17 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chun Yang Tea Chinatown location:  26B Elizabeth St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yifang Taiwan Fruit Tea location:  1028 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Debutea location:  217 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  ViVi Bubble Tea location:  607 9th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  KOI Thé location:  32 Union Square E
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Juicy Cube location:  166 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  KOI Thé location:  189 Bleecker St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  302 West 39th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  4
 	name:  One Zo - New York location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Ho Ho Té location:  805 8th Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Tea Magic location:  239 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Alley location:  68 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  PaTea location:  227 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Coco Fresh Tea & Juice location:  124 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  1600 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  160 E 44th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Juicy Cube location:  674 Lexington Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  646 9th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  5
 	name:  YiFang Taiwan Fruit Tea location:  61 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  204 E 10th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  379 First Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee Greenwich Village location:  168 Bleecker St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  MomenTea location:  64 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Kung Fu Tea location:  1219 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Teado Tea Shop location:  145D Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  2810 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  206 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Kudo Society Teaneck location:  336 Queen Anne Rd
-	boroughs:  []
-
+	Boroughs:  []
 page:  6
 	name:  U Tea location:  139 Fulton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  UT47 location:  358 W 47th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  ViVi bubble tea location:  50 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Macao Imperial Tea location:  173 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  1324 2nd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Song Tea location:  38-21 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  12 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Macao Imperial Tea location:  15 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bao by Kaya location:  570 Lexington Ave
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  The Whale Tea location:  209 E 14th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  7
 	name:  Kung Fu Tea location:  28 St Marks Pl
-	boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
 	name:  Tiger Sugar location:  4010 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  101 MacDougal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tidal Tea location:  1520 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yifang Taiwan Fruit Tea location:  33 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  115 E 23rd St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  Debutea location:  71 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Meet Fresh location:  37 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee - Fifth Ave location:  275 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Boba Fries location:  8121 Broadway
-	boroughs:  []
-
+	Boroughs:  []
 page:  8
 	name:  Bubbleology location:  120 1/2 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  MomenTea Kitchen location:  213 W 40th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  488 7th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yifang Taiwan Fruit Tea location:  67 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  38 Lexington Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Vivi Bubble Tea location:  170 W 23rd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  mellow tea location:  1268 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Taste Crème location:  13-11 Jackson Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  11 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Very Fresh Noodles location:  409 W 15th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  9
 	name:  Hawa smoothie & Bubble tea location:  1151 2nd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  284 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea Magic location:  2878 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee location:  42-32 Crescent St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Taiwan Bear House location:  11 Pell St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tomiz location:  18 E 41st St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  69 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  2508 Queens Plaza S
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Ten Ren’s Tea Time location:  73 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  BÀO Tea House - Greenwich Village location:  140 West 4th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  10
 	name:  Gong Cha location:  200 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Jupioca location:  1457 York Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea and Milk location:  32-02 34th Ave
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens']
 	name:  Boba Dumbo location:  52 Jay St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Blank Slate Tea location:  121 Madison Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee location:  90 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bibble & Sip location:  174 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Panda Bubble Tea location:  858 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  ViVi Bubble Tea location:  226 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  51 Chrystie St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  11
 	name:  Yong Kang Street location:  888 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cha Cha Matcha location:  1158 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  49 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Sip N’ Play location:  471 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chun Yang Tea - Flushing New York location:  133-41 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Culture Tea Bar location:  3111 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  73 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tap NYC location:  267 Columbus Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  31 Waverly Pl
-	boroughs:  []
-
+	Boroughs:  []
 page:  12
 	name:  One Zo location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yi Fang Taiwan Fruit Tea location:  44-68 21st St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Hawa Smoothies and Bubble Tea location:  1293 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee - Fort Lee location:  2029 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Hawa Smoothie & Bubble Tea location:  193 Church St
-	boroughs:  []
+	Boroughs:  []
 	name:  ÜMACHA location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  2851 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  12 John St
-	boroughs:  ['Manhattan', 'Old Toronto']
+	Boroughs:  ['Manhattan', 'Old Toronto']
 	name:  Tiger Sugar location:  5903 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Flipper’s location:  337 W Broadway
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  13
 	name:  Softbite location:  1216 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mi Tea location:  107-22 Continental Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  The Alley location:  38-02 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mango Mango Dessert location:  23 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Dalongyi Hot Pot location:  159 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mee Cafe location:  26 Rutgers St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mr. Wish location:  86 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Uptown Poke location:  506 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  OJBK Tea Shop location:  525 Myrtle Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yong Kang Street location:  1000 8th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  14
 	name:  La Mian Lounge location:  25-12 Broadway
-	boroughs:  ['Queens', 'Manhattan']
+	Boroughs:  ['Queens', 'Manhattan']
 	name:  Prince Tea House location:  31-47 Steinway St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Hawa Smoothies & Bubble Tea location:  422 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Sashimi Ramen Express location:  341 E 78th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  134 Bowery
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cool Fresh Juice Bar location:  2661 A Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Meet Fresh location:  5815 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  72 Bayard St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Squarrel Cafe location:  572 Atlantic Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  INFINITEA NY location:  2309 Astoria Blvd
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  15
 	name:  Fong On location:  81 Division St
-	boroughs:  []
+	Boroughs:  []
 	name:  Bubbly Tea location:  55 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  TBaar location:  36 W 36th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  2013 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Spot Dessert Bar location:  13 St Marks Pl
-	boroughs:  ['Manhattan', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Staten Island']
 	name:  Fay Da Bakery location:  321 W 6th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  New Territories location:  190 Orchard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Teapsy New York location:  33-17 30th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bobaloca Bubble Tea and Coffee House location:  6103 Bergenline Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Rice To Riches location:  37 Spring St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  16
 	name:  Vivi Bubble Tea location:  30 3rd Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  mochii location:  116 E 7th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Ollie’s To Go location:  2425 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chock Full O’ Nuts Cafe location:  1701 Avenue M
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  La Window location:  143 Troutman St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Happy Lemon location:  133-35 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Cool Fresh Juice Bar location:  333 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Banhmigos location:  178 Lincoln Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Pho Shop location:  1716 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  18 W 14th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  17
 	name:  Cloud 9 Crepes location:  434 Marcus Garvey Blvd
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Avenue Coffee House location:  45-01 Greenpoint Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Initial Tea location:  467 Dekalb Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Krua location:  1764 1AVE
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cha Cha Matcha location:  373 Broome St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Teadora location:  6609 Fort Hamilton Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  M Tea location:  2301 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tea Time BK location:  749 Grand St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Vivi Bubble Tea location:  325 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Sunshine Ice location:  4514 Park Ave
-	boroughs:  ['The Bronx']
-
+	Boroughs:  ['The Bronx']
 page:  18
 	name:  Turnstyle Underground Market location:  57th St &amp; 8th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Multisweet location:  274 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Yum Ice Cream&Bubble Tea location:  8 Anderson St
-	boroughs:  []
+	Boroughs:  []
 	name:  M Tea location:  63 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  One More Charm location:  236 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Jell & Chill location:  110 E 7th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Fancy Juice location:  69 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mango Mango Dessert - New York location:  63 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Juice Vitality location:  192 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chinatown Ice Cream Factory location:  65 Bayard St
-	boroughs:  ['Manhattan', 'Brooklyn']
-
+	Boroughs:  ['Manhattan', 'Brooklyn']
 page:  19
 	name:  Domi location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Joe’s Steam Rice Roll location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  TSAôCAA location:  38-04 Prince St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Wang Lao Ji Herbal Tea Museum location:  221 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Kitsby location:  186 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Urban Leaf Cafe location:  182 D Kingsland St
-	boroughs:  []
+	Boroughs:  []
 	name:  Crispy Burger location:  196 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Ochado USA location:  255 Franklin Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  MENO location:  218 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Whistle & Fizz location:  254 Greene St
-	boroughs:  []
-
+	Boroughs:  []
 page:  20
 	name:  Something Sweet location:  4910 Vernon Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bee Cafe location:  60-11 39th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Namas Tea location:  863 Sterling Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  The Dough Club location:  119 Baxter St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Utepia Tea location:  167 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mudflow Tea House location:  5602 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  234 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  2 E Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Pig Pig Cafe location:  7115 3rd Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Soft Swerve location:  85B Allen St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  21
 	name:  Gotcha Cafe location:  1712 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Nuan Xin Rice Roll location:  67A Eldridge St
-	boroughs:  ['Manhattan']
-	name:  Sushi Lab Rooftop NYC location:  132 West 47th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Teazzi Tea Shop location:  135-17 38th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  YanYan Tea location:  135-03A Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  TenIchi Mart location:  118 Smith St
-	boroughs:  []
+	Boroughs:  []
 	name:  Gong Cha location:  1630 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  16 Handles location:  178 8th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Kudo Society Cafe location:  138 W Central Blvd
-	boroughs:  []
+	Boroughs:  []
 	name:  Prince Tea House location:  15 Station Square
-	boroughs:  ['Queens']
-
-page:  22
+	Boroughs:  ['Queens']
 	name:  Coco Fresh Tea & Juice location:  79 Division St
-	boroughs:  []
+	Boroughs:  []
+page:  22
 	name:  Spot Dessert Bar location:  5 Saint Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hungarian Pastry Shop location:  1030 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  TKK Fried Chicken location:  115 E 23rd St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  Hanco’s location:  134 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Thai Peppercorn location:  1406 Madison Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  183 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mitsuwa Marketplace location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Poke Bowl location:  324 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  4053 Broadway
-	boroughs:  ['Manhattan']
-
-page:  23
+	Boroughs:  ['Manhattan']
 	name:  Café East location:  2920 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
+page:  23
 	name:  Mr. Wish location:  80-62 Lefferts Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  M Tea location:  36-56 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Lincredibowl location:  350 Kearny Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Taiyaki NYC location:  119 Baxter St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Q Tea Tapas location:  242 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  Juju Cafe and Deli location:  143 Smith St
-	boroughs:  []
+	Boroughs:  []
 	name:  Mei Lai Wah Bakery location:  64 Bayard St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  9 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Sweetie House location:  5701 6th Ave
-	boroughs:  []
-
-page:  24
+	Boroughs:  []
 	name:  Yummy Boba Desserts location:  5814 7th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
+page:  24
 	name:  Sashimi Express II location:  223 E 74th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  SoHo Eatery location:  273 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  527 Washington St
-	boroughs:  []
+	Boroughs:  []
 	name:  Hello Saigon location:  180 Bleecker St
-	boroughs:  ['Manhattan', 'Queens']
+	Boroughs:  ['Manhattan', 'Queens']
 	name:  Moge Tee Newport location:  564 Washington Blvd
-	boroughs:  []
+	Boroughs:  []
 	name:  Ten Ren Tea location:  75 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Koku Ramen location:  2 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawa Smoothies location:  181 E Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Momochai location:  57-16 Woodside Ave
-	boroughs:  ['Queens']
-Scraping Queens Boba Spots
+	Boroughs:  ['Queens']
+	name:  Vietspot location:  99 Nassau St
+	Boroughs:  ['Manhattan']
 
+Scraping Queens Boba Spots
 page:  1
 	name:  Xing Fu Tang location:  40-52 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Lazy Sundaes - Lower East Side location:  23 Clinton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tiger Sugar location:  4010 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Lazy Sundaes Greenwich Village location:  11 Waverly Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chun Yang Tea - Flushing New York location:  133-41 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  107-22 Continental Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Boba Fries location:  8121 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee - Bayside location:  4319 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tea and Milk location:  32-02 34th Ave
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens']
 	name:  Taste Crème location:  13-11 Jackson Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  2
 	name:  Song Tea location:  38-21 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Lazy Sundaes location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee location:  42-32 Crescent St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  La Mian Lounge location:  25-12 Broadway
-	boroughs:  ['Queens', 'Manhattan']
+	Boroughs:  ['Queens', 'Manhattan']
 	name:  Momo Ashi location:  40-06 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mr. Wish location:  80-62 Lefferts Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Prince Tea House location:  15 Station Square
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  2508 Queens Plaza S
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  BAMBU location:  124B Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  31-47 Steinway St
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  3
 	name:  Tea and Milk location:  75 9th Ave Lower Level
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yi Fang Taiwan Fruit Tea location:  44-68 21st St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  The Teapsy New York location:  33-17 30th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Teazzi Tea Shop location:  135-17 38th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kudo Society Teaneck location:  336 Queen Anne Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Siips Bubble location:  7408 Grand Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  INFINITEA NY location:  2309 Astoria Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  The Alley location:  38-02 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Möge Tee - Flushing location:  38-03 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  I Milky 沐白 location:  992 6th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  4
 	name:  Gong Cha location:  61-35 Junction Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Sweetory location:  71-28 Roosevelt
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  135-29 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  YanYan Tea location:  135-03A Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  70-10 Austin St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mr.Wish location:  38 Middle Neck Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Yi Fang Taiwan Fruit Tea location:  135-15 40th Rd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Song’s Dumplings Cafe location:  102-06 Metropolitan Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Truedan location:  208 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  M Tea location:  36-56 Main St
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  5
 	name:  Anda Cafe location:  37-11 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tiger Sugar location:  197 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  BIAO Sugar location:  1271 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Teazzi Tea Shop location:  47 W 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  45-40 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  42-21 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Happy Lemon location:  133-35 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  M Tea location:  2301 41st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Vivi Bubble Tea location:  83-28 Broadway
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Surreal Creamery location:  538 2nd Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  6
 	name:  Momochai location:  57-16 Woodside Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  La Window location:  143 Troutman St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Lucky Penguin location:  675 Glen Cove Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Dragon Horn Tea location:  106 Greenwich St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  TSAôCAA location:  38-04 Prince St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bobba Hubba location:  40-36 75th St
-	boroughs:  ['Queens']
-	name:  JoJu location:  83-25 Broadway
-	boroughs:  []
+	Boroughs:  ['Queens']
 	name:  Elly’s Place - Sunrise Market location:  100-31 Metropolitan Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
+	name:  JoJu location:  83-25 Broadway
+	Boroughs:  []
 	name:  Uncle Drink location:  32-55 Steinway St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bibble & Sip location:  253 W 51st St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  7
 	name:  Prince Tea House location:  36-39 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Sip N’ Play location:  471 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  KOI Thé location:  32 Union Square E
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Trutea location:  7 E 14th St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  CoCo Fresh Tea & Juice location:  39-22 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Coco Fresh Tea & Juice location:  182-4 Horace Harding Expy
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  ÜMACHA location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  82-02 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  The Alley location:  68 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  PaTea location:  227 E 14th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  8
 	name:  Yo Health location:  41-53 53rd St
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens', 'Queens']
 	name:  Chun Yang Tea Chinatown location:  26B Elizabeth St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  136-20 38th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bubbleology location:  120 1/2 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Alimama location:  89A Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Something Sweet location:  4910 Vernon Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Pop Pot Noodle & Tea Spot location:  7508 Jamaica Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tiger Hill location:  136-49 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  90-15 Queens Blvd
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens', 'Queens']
 	name:  Beijing Dumpling House location:  88-38 Sutphin Blvd
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  9
 	name:  Vivi Bubble Tea location:  31-54 Steinway St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Ten Ren Tea & Ginseng location:  13518 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Boba Dumbo location:  52 Jay St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Machi Machi location:  33 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Anda Cafe location:  6002 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  One Zo - New York location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea Cup Cafe location:  76-23 Woodside Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Debutea location:  217 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mr.Chicken & Mrs.Tea location:  150-29 Crossbay Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tornado Crepe location:  8610 Roosevelt Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  10
 	name:  Koryodang location:  4106 163rd St
-	boroughs:  []
+	Boroughs:  []
 	name:  KOI Thé location:  189 Bleecker St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  206 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Hawa Smoothie & Bubble Tea location:  193 Church St
-	boroughs:  []
+	Boroughs:  []
 	name:  TBaar location:  82-02 45th Ave
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens', 'Queens']
 	name:  Mr. Wish location:  86 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  35-16 Ditmars Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Prince Tea House location:  204 E 10th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Squarrel Cafe location:  572 Atlantic Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  OJBK Tea Shop location:  525 Myrtle Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  11
 	name:  One Zo location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  925 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  75 W 38th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  MomenTea location:  64 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Tiger Sugar location:  2132 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Summer location:  85-36 Grand Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha location:  136-20 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  ViVi Bubble Tea location:  790 Manhattan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Debutea location:  71 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Meet Fresh location:  37 Cooper Sq
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  12
 	name:  Macao Imperial Tea location:  15 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Möge Tee - Fort Lee location:  2029 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Coco Fresh Tea & Juice location:  86-55 Broadway
-	boroughs:  ['Manhattan', 'Queens']
+	Boroughs:  ['Manhattan', 'Queens']
 	name:  mellow tea location:  1268 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Brew Memories location:  295 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Tidal Tea location:  1520 Amsterdam Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  J&J Cajun Grill location:  9040 160th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bee Cafe location:  60-11 39th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Initial Tea location:  467 Dekalb Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  CoCo Fresh Tea & Juice location:  646 9th Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  13
 	name:  Hero Tang Tea location:  41-40 Kissena Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gong Cha - Little Neck location:  252-01 Northern Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Modern Tea Shop location:  300 W 49th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hui Lau Shan - Elmhurst location:  8118 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Namas Tea location:  863 Sterling Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yifang Taiwan Fruit Tea location:  1028 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Shiny Tea location:  2667 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  41-42 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Panda Bubble Tea location:  858 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Avenue Coffee House location:  45-01 Greenpoint Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  14
 	name:  Kung Fu Tea location:  434 Hillside Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  V3nom Cafe & Lounge location:  246-09 Jericho Tpke
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tornado Crepe location:  1808 Weirfield St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Ama Coffee location:  6047 Myrtle Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Cloud 9 Crepes location:  434 Marcus Garvey Blvd
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Moge Tee location:  302 West 39th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Pig Pig Cafe location:  7115 3rd Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mr.Green location:  15836 Cross Bay Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Pot Pot Noodle & Tea Cafe location:  8000 Cooper Ave K2
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Crepe N Tearia location:  177-07 Union Tpke
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  15
 	name:  Bobaloca Bubble Tea and Coffee House location:  6103 Bergenline Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Pate location:  
-	boroughs: []
 	name:  Crystal Ice location:  136-21 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Gogo Tea location:  60-07 Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Anda Cafe location:  83-31 Broadway
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Grace Street location:  17 W 32nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chock Full O’ Nuts Cafe location:  1701 Avenue M
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  YoFresh Yogurt Cafe location:  54-56 Myrtle Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mi Tea location:  101 MacDougal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  1324 2nd Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  16
 	name:  The Whale Tea location:  209 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Rainbow Bakery location:  36-61 Main St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  The Pretzel Twister location:  5458 Myrtle Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Meet Fresh location:  5815 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Coco Fresh Tea & Juice location:  37-01 82nd St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tea Magic location:  239 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  82-02 45th Ave
-	boroughs:  ['Queens', 'Queens']
+	Boroughs:  ['Queens', 'Queens']
 	name:  Blank Slate Tea location:  121 Madison Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cocohodo location:  158-07 Northern Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  86-12 Justice Ave
-	boroughs:  ['Queens']
-
+	Boroughs:  ['Queens']
 page:  17
 	name:  The Unique Tea location:  42-01 162nd St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Pink Forest location:  72-01 Austin St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Tiger Sugar location:  5903 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Teado Tea Shop location:  145D Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Sweet Adele’s location:  73-10 Bell Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  HI Tea Hong Kong Style Cafe location:  61-24 Springfield Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Dumpling D’Or location:  25-15 Queens Plz N
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  EFresh location:  71-24A Austin St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Teadora location:  6609 Fort Hamilton Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  160 E 44th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  18
 	name:  Cha Cha Matcha location:  1158 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  6 S Station Plz
-	boroughs:  []
+	Boroughs:  []
 	name:  Ochado USA location:  255 Franklin Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Urban Leaf Cafe location:  182 D Kingsland St
-	boroughs:  []
+	Boroughs:  []
 	name:  Quickly location:  8306 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Yummy Boba Desserts location:  5814 7th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Coffee Factory location:  40-18 150th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bibble & Sip location:  174 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Pata Cafe location:  5614 Van Horn St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Taiwan Bear House location:  11 Pell St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  19
 	name:  Tea Time BK location:  749 Grand St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Fong On location:  81 Division St
-	boroughs:  []
+	Boroughs:  []
 	name:  CoCo Fresh Tea & Juice location:  501 Great Neck Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  TenIchi Mart location:  118 Smith St
-	boroughs:  []
+	Boroughs:  []
 	name:  Lotus1 location:  4119 31st Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Spot Dessert Bar location:  39-16 Prince St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Mudflow Tea House location:  5602 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Moge Tee location:  379 First Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  2013 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  ViVi bubble tea location:  50 Lexington Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  20
 	name:  M Tea location:  63 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  One More Charm location:  236 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Yaya Tea Garden location:  86-12 Whitney Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Le Moment location:  69-38 Grand Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Boba Le Tea Cafe location:  1396 B Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Ten Ren’s Tea Time location:  73 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea Shop 168 & Bakery location:  5920 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  Tiger Tea location:  135-34 39th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Anda Cafe location:  31-00 47th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Crisp location:  288 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
-
+	Boroughs:  ['Brooklyn', 'Manhattan']
 page:  21
 	name:  Hawa Smoothies & Bubble Tea location:  295 Broadway
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hanco’s location:  134 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  2810 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  51 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kitsby location:  186 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Cha Cha Matcha location:  373 Broome St
-	boroughs:  ['Manhattan']
-	name:  Win Win Foods location:  34-35 56th St
-	boroughs:  ['Queens']
+	Boroughs:  ['Manhattan']
 	name:  Jupioca location:  1457 York Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tornado Crepe location:  307 Knickerbocker Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  1219 1st Ave
-	boroughs:  ['Manhattan']
-
-page:  22
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  1630 Lemoine Ave
-	boroughs:  []
+	Boroughs:  []
+page:  22
 	name:  Gong Cha location:  1600 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mango Mango Dessert location:  136-28 39th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Macao Imperial Tea location:  173 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gotcha Cafe location:  1712 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  40-06 Union St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  TBaar location:  96-3 37th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Bubble Tea World location:  8748 Parsons Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Woodside Rainbow Bakery location:  39-61 61st St
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Kung Fu Tea location:  358 N Broadway
-	boroughs:  []
-
-page:  23
+	Boroughs:  []
 	name:  The TeaCompany Café & Retail - Montclair location:  8 S Fullerton Ave
-	boroughs:  []
+	Boroughs:  []
+page:  23
 	name:  Hana Asian Bistro location:  150-03 Crossbay Blvd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Jupioca location:  278 Wyckoff Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Sashimi Ramen Express location:  341 E 78th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Swan Crepe location:  727 Franklin Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Matcha Love By Ito En location:  595 River Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Creep City Ninja Bubble Tea location:  265 Graham Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  1698 E 14th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Juicy Cube location:  166 W 72nd St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gateaux Desserts location:  225 Post Ave
-	boroughs:  []
-
-page:  24
+	Boroughs:  []
 	name:  Ho Ho Té location:  805 8th Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
+page:  24
 	name:  Sagoto BubbleTea World location:  652 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Flushing Ice Cream Factory location:  135-15 40th Rd
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Culture Tea Bar location:  3111 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Coco Fresh Tea & Juice location:  450 Hackensack Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Gong Cha location:  630 Old Country Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Power Poke location:  271-18 Union Tpke
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Cyclo location:  5-51 47th Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  Village Tea Shop location:  2 S Maple Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Gong Cha location:  156 Lawrence St
-	boroughs:  []
-Scraping Staten Island Boba Spots
+	Boroughs:  []
+	name:  Star Cafe location:  18301 Horace Harding Expy
+	Boroughs:  ['Queens']
 
+Scraping Staten Island Boba Spots
 page:  1
 	name:  Boba Le Tea Cafe location:  1396 B Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Vivi Bubble Tea location:  337 New Dorp Ln
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  ViVi Bubble Tea location:  532B Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Lil M Bubble Tea location:  597 Manor Rd
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Lazy Sundaes - Lower East Side location:  23 Clinton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lazy Sundaes Greenwich Village location:  11 Waverly Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawaii Poke Bowl location:  1430 Richmond Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  I bubble tea & cafe location:  109 Walnut Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Something Sweet location:  314 New Dorp Ln
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Sakai Ramen location:  965 Richmond Ave
-	boroughs:  ['Staten Island']
-
+	Boroughs:  ['Staten Island']
 page:  2
 	name:  Simple Asia location:  2333 Hylan Blvd
-	boroughs:  ['Staten Island']
+	Boroughs:  []
 	name:  Banhmigos location:  4018 Hylan Blvd
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Meet Fresh location:  5815 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hong Kong Kei One location:  4207 Hylan Blvd
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Gong Cha location:  340 Millburn Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Tiger Sugar location:  2132 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tiger Sugar location:  5903 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Pig Pig Cafe location:  7115 3rd Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tiger Sugar location:  197 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mudflow Tea House location:  5602 8th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  3
 	name:  Trutea location:  7 E 14th St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  Yummy Machi location:  2236 Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Pho Mac Vietnamese Restaurant location:  1407 Richmond Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Lazy Sundaes location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Phil-Am Kusina location:  556 Tompkins Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Boba Dumbo location:  52 Jay St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Poke Bowl location:  324 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Gotcha Cafe location:  1712 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Coco Fresh Tea & Juice location:  8612 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Alley location:  68 Cooper Sq
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  4
 	name:  Teadora location:  6609 Fort Hamilton Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Crispy Burger location:  196 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Chun Yang Tea Chinatown location:  26B Elizabeth St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  CafeTeasia location:  1 S Ave E
-	boroughs:  []
+	Boroughs:  []
 	name:  Yummy Boba Desserts location:  5814 7th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  1698 E 14th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  BAMBU location:  124B Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  OJBK Tea Shop location:  525 Myrtle Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Teazzi Tea Shop location:  47 W 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Squarrel Cafe location:  572 Atlantic Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  5
 	name:  Ice Moon location:  1117 Elizabeth Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Sagoto BubbleTea World location:  652 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee location:  2013 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Miyabi Asian Fusion location:  1348 Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Mr. Wish location:  86 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Tea Time BK location:  749 Grand St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hawa Smoothie & Bubble Tea location:  193 Church St
-	boroughs:  []
+	Boroughs:  []
 	name:  Alimama location:  89A Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  One Zo location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  8625 5th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  6
 	name:  Banhmigos location:  178 Lincoln Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Cloud 9 Crepes location:  434 Marcus Garvey Blvd
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Me-Do Desserts location:  3 Bay 25th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  PokéBowl Station location:  2037 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  1566 Flatbush Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  U Tea location:  139 Fulton St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Dragon Horn Tea location:  106 Greenwich St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Truedan location:  208 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Moge Tee Brooklyn location:  705 59th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  MomenTea location:  64 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
-
+	Boroughs:  ['Brooklyn', 'Manhattan']
 page:  7
 	name:  Initial Tea location:  467 Dekalb Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Namas Tea location:  863 Sterling Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Brew Memories location:  295 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Real Fruit Bubble Tea location:  55 Parsonage Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Debutea location:  217 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mi Tea location:  2046 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Bibble & Sip location:  174 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  379 First Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  51 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Prince Tea House location:  8510 21st Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  8
 	name:  CoCo Fresh Tea & Juice location:  420 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Prince Tea House location:  204 E 10th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  76 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cafe Nomis location:  493 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Mi Tea location:  101 MacDougal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawa Smoothies & Bubble Tea location:  295 Broadway
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kulu Desserts location:  806 62nd St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mocktails & Dreams location:  30 Mall Dr W
-	boroughs:  []
+	Boroughs:  []
 	name:  Sip N’ Play location:  471 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yifang Taiwan Fruit Tea location:  67 Bayard St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  9
 	name:  Sayori Japanese Restaurant location:  1440 Forest Ave
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Gong Cha location:  200 Broadway
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Chock Full O’ Nuts Cafe location:  1701 Avenue M
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  156 Lawrence St
-	boroughs:  []
+	Boroughs:  []
 	name:  Debutea location:  71 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Cafe Pilipino location:  530 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Moge Tee Newport location:  564 Washington Blvd
-	boroughs:  []
+	Boroughs:  []
 	name:  Möge Tee Greenwich Village location:  168 Bleecker St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  YiFang Taiwan Fruit Tea location:  61 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Moge Tee location:  69 Cooper Sq
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  10
 	name:  Hawa Smoothies & Bubble Tea location:  44 Willoughby St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  The Rat Pack location:  762B Roosevelt Ave
-	boroughs:  ['Queens']
+	Boroughs:  ['Queens']
 	name:  One Zo - New York location:  110 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mizuumi location:  1970 Victory Blvd
-	boroughs:  ['Staten Island']
+	Boroughs:  ['Staten Island']
 	name:  Crisp location:  288 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  The Whale Tea location:  209 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  YiFang Taiwan Fruit Tea location:  774 58th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  PaTea location:  227 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  206 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  BÀO Tea House - Greenwich Village location:  140 West 4th St
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  11
 	name:  Creep City Ninja Bubble Tea location:  265 Graham Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  KOI Thé location:  32 Union Square E
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  TBaar location:  1323 Ave U
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Babo Teahouse location:  10 River Dr S
-	boroughs:  []
+	Boroughs:  []
 	name:  In Cha location:  6003 7th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gigi’s Bakery location:  8626 4th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yo Delight location:  82 Main St
-	boroughs:  []
+	Boroughs:  []
 	name:  ViVi Bubble Tea location:  790 Manhattan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yaya Tea Garden location:  2320 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  TSAôCAA location:  773 59th St
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  12
 	name:  High Tea House location:  2349 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Juju Cafe and Deli location:  143 Smith St
-	boroughs:  []
+	Boroughs:  []
 	name:  Taiwan Bear House location:  11 Pell St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Cheesecake Diva location:  7309 3rd Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  KOI Thé location:  189 Bleecker St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Real Fruit Bubble Tea location:  250 Woodbridge Center Dr
-	boroughs:  []
+	Boroughs:  []
 	name:  Newkirk Fruit location:  17 Newkirk Plz
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  TenIchi Mart location:  118 Smith St
-	boroughs:  []
+	Boroughs:  []
 	name:  Poke n’ Ramen 360 location:  30 Mall Dr W
-	boroughs:  []
+	Boroughs:  []
 	name:  ViVi Bubble Tea location:  6731 Bay Pkwy
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  13
 	name:  Jupioca location:  135 Lawrence St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  31 Waverly Pl
-	boroughs:  []
+	Boroughs:  []
 	name:  Earnest Tea Cafe location:  6008 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  ViVi bubble tea location:  50 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  New Territories location:  190 Orchard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  80’s Tea location:  6815 Bay Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Utepia Tea location:  167 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  28 St Marks Pl
-	boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
+	Boroughs:  ['Manhattan', 'Brooklyn', 'Staten Island']
 	name:  Yifang Taiwan Fruit Tea location:  33 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Sweetie House location:  5701 6th Ave
-	boroughs:  []
-
+	Boroughs:  []
 page:  14
 	name:  Kung Fu Tea location:  1422 Ave U
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Gong Cha location:  5723 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kung Fu Tea location:  806 55th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mojoilla location:  2 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  40 Hoyt St
-	boroughs:  []
+	Boroughs:  []
 	name:  Jupioca location:  19 Hillel Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Ten Ren’s Tea Time location:  73 Mott St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  315C Millburn Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  1047 Stuyvesant Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  2174 86th St
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  15
 	name:  Drink Tea location:  4722 8th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  113 Court St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Macao Imperial Tea location:  173 Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  E’s Cake Shop location:  1508 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tea NJ location:  262 Newark Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Teado Tea Shop location:  145D Hester St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  16 Handles location:  651 Kapkowski Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Hummus Grill location:  55 Parsonage Rd
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  9 Broadway
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  325 Broadway
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  16
 	name:  Bread & Joe location:  618 4th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Something Sweet location:  1976 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Bubble Tea location:  98 Walker St
-	boroughs:  []
+	Boroughs:  []
 	name:  Bubbleology location:  120 1/2 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Juice Vitality location:  18 Beaver St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Cha Cha Matcha location:  373 Broome St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Hawa Smoothies & Bubble Tea location:  422 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mango Mango Dessert location:  2024 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Taiwan Station location:  5510 7th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  98K location:  4715 8th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  17
 	name:  JMcakeBoutique location:  7211 18th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Meet Fresh location:  37 Cooper Sq
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Jmart location:  8121 New Utrecht Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  One More Charm location:  236 7th Ave
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Barley Time location:  705 59th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mee Cafe location:  26 Rutgers St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Savory Thai location:  378 Metropolitan Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kazia Rae’s Restaurant location:  49 Carr Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  I bubble tea & cafe location:  109 Walnut Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Tan-Cha location:  5503 8th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  18
 	name:  I Love Bubble Tea location:  326 Woodbridge Center Dr
-	boroughs:  []
+	Boroughs:  []
 	name:  Arnor Crepes & Bubble Tea location:  1425 W 10th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Bubbly Tea location:  55 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  PokéBowl Station location:  237 Flatbush Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Mellow Tea location:  75 Montgomery St
-	boroughs:  []
+	Boroughs:  []
 	name:  Fancy Juice location:  69 1st Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  KC Grill & Grocery location:  6930 4th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  CoCo Fresh Tea & Juice location:  38 Lexington Ave
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Jollibee location:  393 Danforth Ave
-	boroughs:  ['Old Toronto']
+	Boroughs:  ['Old Toronto']
 	name:  Juice Vitality location:  192 1st Ave
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  19
 	name:  Rice To Riches location:  37 Spring St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  ViVi Bubble Tea location:  226 E 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  117 Washington St
-	boroughs:  []
+	Boroughs:  []
 	name:  Cool Fresh Juice Bar location:  333 6th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  49 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Yaya Tea Garden location:  284 3rd Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  30 3rd Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Möge Tee location:  90 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bao By Kaya location:  9011 5th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  20
 	name:  CoCo Fresh Tea & Juice location:  12 John St
-	boroughs:  ['Manhattan', 'Old Toronto']
+	Boroughs:  ['Manhattan', 'Old Toronto']
 	name:  Coco Fresh Tea & Juice location:  79 Division St
-	boroughs:  []
+	Boroughs:  []
 	name:  MENO location:  218 Thompson St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Fong On location:  81 Division St
-	boroughs:  []
+	Boroughs:  []
 	name:  Kung Fu Tea location:  115 E 23rd St
-	boroughs:  ['Manhattan', 'Manhattan']
+	Boroughs:  ['Manhattan', 'Manhattan']
 	name:  Vivi Bubble Tea location:  5002 5th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Banh Mi Place location:  824B Washington Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Chau Down Cafe location:  80 Dekalb Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Banhmigos location:  636 Park Pl
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  BQ Tea location:  
-	boroughs: []
-
 page:  21
 	name:  Prince Tea House location:  134 Bowery
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  90 Degree Coffee Noodles & Rice House location:  5715 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Gong Cha location:  72 Bayard St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Mango Mango Dessert - New York location:  63 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Vivi Bubble Tea location:  2169 86th St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hanco’s location:  147 Montague St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Kitsby location:  186 Grand St
-	boroughs:  ['Manhattan', 'Brooklyn']
+	Boroughs:  ['Manhattan', 'Brooklyn']
 	name:  Blossom Ice Cream location:  196 Court St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  ChowTime location:  1418 Mermaid Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Tbaar location:  8520 20th Ave
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  22
 	name:  SoHo Eatery location:  273 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Jell & Chill location:  110 E 7th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lotus Vietnamese Sandwiches location:  229 5th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  99 Ranch Market location:  420 Grand St
-	boroughs:  ['Brooklyn', 'Manhattan']
+	Boroughs:  ['Brooklyn', 'Manhattan']
 	name:  Banhmigos location:  92 Court St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hanco’s location:  350 7th Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Kung Fu Tea location:  73 Chrystie St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  The Dough Club location:  119 Baxter St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Bubble Os location:  446 West Side Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Short Grain location:  183 Montgomery St
-	boroughs:  ['Brooklyn']
-
+	Boroughs:  ['Brooklyn']
 page:  23
 	name:  Vivi Bubble Tea location:  18 W 14th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  mochii location:  116 E 7th St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  FullTime NetCafe location:  7314 13th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Vivi Bubble Tea location:  6517 18th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hanco’s location:  134 Smith St
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Yo Bubble location:  250 Woodbridge Center Dr
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  5924 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  YinYang Coffee & Tea location:  61 Lexington Ave
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lee Lee location:  5718 5th Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Vivi Bubble Tea location:  2 E Broadway
-	boroughs:  ['Manhattan']
-
+	Boroughs:  ['Manhattan']
 page:  24
 	name:  Shan Xi Snack location:  7002 Fort Hamilton Pkwy
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Dalongyi Hot Pot location:  159 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  G & J Bubble Tea location:  7802 New Utrecht Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Hawa Smoothies location:  156 Delancey St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Mango Mango Dessert location:  23 St Marks Pl
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Pho Minh’s location:  430 N Wood Ave
-	boroughs:  []
+	Boroughs:  []
 	name:  Sweet House Drinks and Desserts - Chinatown location:  67 Bayard St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  Lian Sheng Restaurant location:  5722B 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 	name:  Domi location:  261 Canal St
-	boroughs:  ['Manhattan']
+	Boroughs:  ['Manhattan']
 	name:  T Baar location:  4823 8th Ave
-	boroughs:  ['Brooklyn']
+	Boroughs:  ['Brooklyn']
 Here's the infromation I have gathered: 
 Bronx: 9
 Brooklyn: 95
 Manhattan: 163
 Queens: 107
-Staten Island: 17
-
+Staten Island: 16
