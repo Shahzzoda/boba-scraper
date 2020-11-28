@@ -18,7 +18,7 @@ Resepctive solutions:
 """
 
 boba_places = []
-os.environ['GMAP_API_KEY'] = ''
+os.environ['GMAP_API_KEY'] = 'API_KEY_HERE'
 api_key = os.getenv('GMAP_API_KEY')
 gmaps = googlemaps.Client(api_key)
 counter = 0
